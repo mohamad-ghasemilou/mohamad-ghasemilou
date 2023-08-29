@@ -10,4 +10,18 @@
   </a>
 </p>
 
-I love to code every day and learn from everyone on my journey. I've collaborated in many successful applications and fields including Cryptocurrency, Imgae processing, ETF, etc. The best output is user-centered, pixel-perfect, and performant eye-catching visuals based on clean & maintainable code. All projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
+---
+
+#### Languages and Tools:
+
+<p>
+  <img width="32" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img width="32" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />  
+  <img width="32" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />  
+  <img width="32" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+  <img width="32" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" />
+  <img width="32" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" />
+  <img width="32" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
+  <img width="32" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
+  <img width="32" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+</p>
