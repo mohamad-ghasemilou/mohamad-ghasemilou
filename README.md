@@ -1,4 +1,4 @@
 # 👋 Hi, I’m Mohamad Ghasemilou
 **`Front-End Developer`**
 
-I love to code everyday and learn from everyone in the my journey. I've collaberated in many successful applications and various fields including Cryptocurrency, Imgae proccessing, ETF, etc. I believe the best output is user-centeric, pixel-perfect and performant eye-catiching visualls which based on clean & maintainable code.
+I love to code every day and learn from everyone on my journey. I've collaborated in many successful applications and fields including Cryptocurrency, Imgae processing, ETF, etc. The best output is user-centered, pixel-perfect, and performant eye-catching visuals based on clean & maintainable code.
